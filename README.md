@@ -28,7 +28,6 @@ kill me pls
 </p>
 
 ---
-</br>
 
 <p align="center">
   <s>Totally not-biased stats</s>
