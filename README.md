@@ -28,7 +28,7 @@ kill me pls
 ---
 
 <p align="center">
-  <s>Totally not-biased stats</s>
+  <s><b>Totally not-biased stats</b></s>
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeVasquez350&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
 </p>
