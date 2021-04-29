@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 kill me pls
 
 <h1 align="center">Ho boy why you're here</h1>
@@ -34,4 +32,3 @@ kill me pls
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeVasquez350&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
 </p>
-</html> 
