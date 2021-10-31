@@ -66,7 +66,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daim0&repo=CTPBot&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/daim0/CTPBot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AerovelenceMod&repo=AerovelenceMod&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/Arcri/AerovelenceMod)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arcri&repo=AerovelenceMod&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/Arcri/AerovelenceMod)
 
 ## Some dumb projects [WIP or Not]:
 
