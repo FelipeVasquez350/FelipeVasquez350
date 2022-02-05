@@ -72,6 +72,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeVasquez350&repo=C.I.R.N.O&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/FelipeVasquez350/C.I.R.N.O)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeVasquez350&repo=D.O.R.E.M.Y&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/FelipeVasquez350/D.O.R.E.M.Y)
+
 ## Activity stats: 
 
 [![FelipeVasquez350's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeVasquez350&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
