@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=430&lines=$ rm -rf / --no-preserve-root :D"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&pause=1000&lines=%24+rm+-rf+%2F+--no-preserve-root+%3AD"></a>
   <h3  align="center">I'm just a software developer whose will to code is inversely proportional to the time I have for it, probably because I would spend too much time on it otherwise ¯\_(ツ)_/¯</h3>
 
   <h4 align="center"> You may see me do things every once in a while, usually not public until most of it is done or at least works, unless i forget to publish them. </h4>
