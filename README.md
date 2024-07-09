@@ -33,7 +33,7 @@ Also a homelab enthusiast and fan of mechs, because who doesn't like big robots 
 ## Projects so far
 
 - [My Truenas Charts](https://github.com/FelipeVasquez350/Custom-Truenas-Catalog) My personal catalog for quickly deploying my personal apps or configurations of other OSS services
-- KRSW (SOON)
+- [KRSW](https://github.com/FelipeVasquez350/KRSW) A small C++ Qt GUI application for collecting and monitoring system resources
 - [Javaac](https://github.com/FelipeVasquez350/Javaac) (Archived) A small and unfinished project of recreating a copy of TBOI in Java
 - [SmartLink-Site.it](https://github.com/FelipeVasquez350/SmartLink-Site.it) (Not online anymore) First webapp that enabled a jank and semi-working method of sharing files from a cloud service hosting the website to the client via web interface (please do not attempt to use it)
 
