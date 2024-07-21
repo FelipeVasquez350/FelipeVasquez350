@@ -36,6 +36,7 @@ Also a homelab enthusiast and fan of mechs, because who doesn't like big robots 
 - [KRSW](https://github.com/FelipeVasquez350/KRSW) A small C++ Qt GUI application for collecting and monitoring system resources
 - [Javaac](https://github.com/FelipeVasquez350/Javaac) (Archived) A small and unfinished project of recreating a copy of TBOI in Java
 - [SmartLink-Site.it](https://github.com/FelipeVasquez350/SmartLink-Site.it) (Not online anymore) First webapp that enabled a jank and semi-working method of sharing files from a cloud service hosting the website to the client via web interface (please do not attempt to use it)
+- [Balatro Mobile ADB Autosave](https://github.com/FelipeVasquez350/balatro-mobile-adb-autosave) An hacky solution to a problem that prevented my gambling addiction to reach its peak
 
 Others soon i hope
 
