@@ -29,6 +29,7 @@
 -   [KRSW](https://github.com/FelipeVasquez350/KRSW) A small C++ Qt GUI application for collecting and monitoring system resources
 -   [My Truenas Charts](https://github.com/FelipeVasquez350/Custom-Truenas-Catalog) (Archived) My personal catalog for quickly deploying my personal apps or configurations of other OSS services (now obsolete after SCALE's ElectricEel release)
 -   [SmartLink-Site.it](https://github.com/FelipeVasquez350/SmartLink-Site.it) (Not online anymore) First webapp that enabled a jank and semi-working method of sharing files from a cloud service hosting the website to the client via web interface (please do not attempt to use it)
+-   [TerraTech Worlds Dedicated Server Docker image](https://github.com/FelipeVasquez350/terratech-worlds-docker-server) I wanted to host my own server easily on Truenas, so instead of just downloading the files in a vm, I spent two days bashing my head against wine to make this work
 
 Other (2) currently in development ...
 
